@@ -1,0 +1,110 @@
+{
+    "Audio" : [
+    {
+        "name": "Boat",
+        "id":1,
+        "image": "https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/speaker/mobile-tablet-speaker/s/8/i/stone-350-boat-original-imafyebfuaumdezs.jpeg?q=70",
+        "price": 1698,
+        "description": "Boat stone 350 10 watt speaker",
+        "category": "speaker"
+    },
+    {
+        "name": "Noise",
+        "id":2,
+        "image": "https://rukminim1.flixcart.com/image/612/612/kp5sya80/headphone/x/m/o/air-buds-mini-truly-wireless-noise-original-imag3ghz4jnrgmhw.jpeg?q=70",
+        "price": 999,
+        "description": "Noise bud mini 15 hours playtime ",
+        "category": "headphone"
+    },
+    {
+        "name": "Boat",
+        "id":3,
+        "image": "https://rukminim1.flixcart.com/image/612/612/jy4q3680/speaker/home-audio-speaker/h/y/m/boat-partypal-20-original-imafgfhd2hfpxuyy.jpeg?q=70",
+        "price": 2569,
+        "description": "Boat party pal 20 15 watt Speaker",
+        "category": "speaker"
+    },
+    {
+        "name": "Mivi",
+        "id":4,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/r/q/x/-original-imagh3g3343vaszd.jpeg?q=70",
+        "price": 999,
+        "description": "Mivi Duopods F50 50hr playtime",
+        "category": "headphone"
+    },
+    {
+        "name": "JBL",
+        "id":5,
+        "image": "https://rukminim1.flixcart.com/image/612/612/l27wtjk0/speaker/i/4/e/-original-imagdhhg2f7zjbt7.jpeg?q=70",
+        "price": 1699,
+        "description": "JBL Go with Rich Bass 5hrs Playtime",
+        "category": "speaker"
+    },
+    {
+        "name": "Oppo",
+        "id":6,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70",
+        "price": 1799,
+        "description": "Oppo EcoDot with ANC",
+        "category": "headphone"
+    },
+    {
+        "name": "Realme",
+        "id":7,
+        "image": "https://rukminim1.flixcart.com/image/612/612/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70",
+        "price": 799,
+        "description": "Realme Pocket Speaker 3 watt",
+        "category": "speaker"
+    },
+    {
+        "name": "Boat",
+        "id":8,
+        "image": "https://rukminim1.flixcart.com/image/612/612/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70",
+        "price": 998,
+        "description": "Boat Rockers 235pro 15hrs playback",
+        "category": "headphone"
+    },
+    {
+        "name": "Google",
+        "id":9,
+        "image": "https://rukminim1.flixcart.com/image/612/612/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70",
+        "price": 1566,
+        "description": "Google Home Mini 2nd Gen",
+        "category": "speaker"
+    },
+    {
+        "name": "PTron",
+        "id":10,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/4/z/b/-original-imagmucmeyd5cdpy.jpeg?q=70",
+        "price": 899,
+        "description": "PTron bAssBot flare TWS",
+        "category": "headphone"
+    },
+    {
+        "name": "Sony",
+        "id":11,
+        "image": "https://rukminim1.flixcart.com/image/612/612/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg?q=70",
+        "price": 9856,
+        "description": "SONY SA-D40 80 watt Home Theatre",
+        "category": "speaker"
+    },
+    {
+        "name": "Boat",
+        "id":12,
+        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/t/f/y/-original-imagmdcgryscaznj.jpeg?q=70",
+        "price": 8556,
+        "description": "Boat Airdopes 192 with BeastMode",
+        "category": "headphone"
+    },
+    {
+        "name": "Boat",
+        "id":13,
+        "image": "https://rukminim1.flixcart.com/image/612/612/kjom6q80-0/speaker/mobile-tablet-speaker/r/a/g/blitz-2000-boat-original-imafz78cs8ftzgbq.jpeg?q=70",
+        "price": 5964,
+        "description": "Boat Blitz 2000 Multimedia 100 watt",
+        "category": "speaker"
+    }
+  
+    
+ ]
+}
