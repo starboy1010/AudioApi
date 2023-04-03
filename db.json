@@ -1,110 +1,156 @@
 {
-    "Audio" : [
+    "bestseller" : [
     {
-        "name": "Boat",
+        "brand": "Muscleblaze",
         "id":1,
-        "image": "https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/speaker/mobile-tablet-speaker/s/8/i/stone-350-boat-original-imafyebfuaumdezs.jpeg?q=70",
-        "price": 1698,
-        "description": "Boat stone 350 10 watt speaker",
-        "category": "speaker"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/protein-supplement/5/o/c/whey-protein-biozyme-performance-whey-labdoor-usa-certified-with-original-imag7adggmb98yfg.jpeg?q=70" ],
+        "price": 3990,
+        "name": "MUSCLEBLAZE Biozyme Performance Whey Protein",
+        "category": "men's clothing"
     },
     {
-        "name": "Noise",
+        "brand": "Optimum Nutition",
         "id":2,
-        "image": "https://rukminim1.flixcart.com/image/612/612/kp5sya80/headphone/x/m/o/air-buds-mini-truly-wireless-noise-original-imag3ghz4jnrgmhw.jpeg?q=70",
-        "price": 999,
-        "description": "Noise bud mini 15 hours playtime ",
-        "category": "headphone"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/koudfgw0/protein-supplement/a/s/h/on-gold-standard-100-protein-powder-primary-source-isolate-original-imag37evbyf2umuy.jpeg?q=70" ],
+        "price": 33190,
+        "name": "Optimum Nutrition (ON) Gold Standard 100% Protein Powder",
+        "category": "men's clothing"
     },
     {
-        "name": "Boat",
+        "brand": "Bigmuscle",
         "id":3,
-        "image": "https://rukminim1.flixcart.com/image/612/612/jy4q3680/speaker/home-audio-speaker/h/y/m/boat-partypal-20-original-imafgfhd2hfpxuyy.jpeg?q=70",
-        "price": 2569,
-        "description": "Boat party pal 20 15 watt Speaker",
-        "category": "speaker"
-    },
-    {
-        "name": "Mivi",
-        "id":4,
-        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/r/q/x/-original-imagh3g3343vaszd.jpeg?q=70",
-        "price": 999,
-        "description": "Mivi Duopods F50 50hr playtime",
-        "category": "headphone"
-    },
-    {
-        "name": "JBL",
-        "id":5,
-        "image": "https://rukminim1.flixcart.com/image/612/612/l27wtjk0/speaker/i/4/e/-original-imagdhhg2f7zjbt7.jpeg?q=70",
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/l29c9e80/protein-supplement/c/f/t/-original-imagdnbg2ykxakr3.jpeg?q=70" ],
         "price": 1699,
-        "description": "JBL Go with Rich Bass 5hrs Playtime",
-        "category": "speaker"
+        "name": "BIGMUSCLES NUTRITION Premium Gold Whey Whey Protein",
+        "category": "men's clothing"
     },
     {
-        "name": "Oppo",
+        "brand": "Muscleblaze",
+        "id":4,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/jw2f6vk0/protein-supplement/q/h/g/raw-nut4919-03-muscleblaze-original-imafgtqqdexdvfrt.jpeg?q=70" ],
+        "price": 4586,
+        "name": "MUSCLEBLAZE Raw Whey Protein Concentrate 80%",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "Muscleblaze",
+        "id":5,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/kdj4xow0/protein-supplement/2/6/v/fuel-one-mass-gainer-immunity-750g-chocolate-flavour-nut6885-01-original-imafuetm9zhzrnzf.jpeg?q=70" ],
+        "price": 0,
+        "name": "MUSCLEBLAZE Fuel One Whey Protein Raw, 24 g Protein",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "Optimum Nutition",
         "id":6,
-        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70",
-        "price": 1799,
-        "description": "Oppo EcoDot with ANC",
-        "category": "headphone"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/ko4ni4w0/protein-supplement/x/e/f/on-gold-standard-100-protein-powder-primary-source-isolate-original-imag2nf3zebwf7gs.jpeg?q=70" ],
+        "price": 1789,
+        "name": "Optimum Nutrition (ON) Gold Standard 100% Protein Powder",
+        "category": "men's clothing"
     },
     {
-        "name": "Realme",
+        "brand": "Bigmuscle",
         "id":7,
-        "image": "https://rukminim1.flixcart.com/image/612/612/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70",
-        "price": 799,
-        "description": "Realme Pocket Speaker 3 watt",
-        "category": "speaker"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/kz3118w0/protein-supplement/n/o/n/whey-protein-essential-whey-protein-24g-protein-with-digestive-original-imagb6dpqh4yyygd.jpeg?q=70" ],
+        "price": 4589,
+        "name": "BIGMUSCLES NUTRITION Essential Whey Protein | 24g Protein",
+        "category": "men's clothing"
     },
     {
-        "name": "Boat",
+        "brand": "Bigmuscle",
         "id":8,
-        "image": "https://rukminim1.flixcart.com/image/612/612/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70",
-        "price": 998,
-        "description": "Boat Rockers 235pro 15hrs playback",
-        "category": "headphone"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/f/i/z/-original-imaggcew2sppxegh.jpeg?q=70" ],
+        "price": 4589,
+        "name": "BIGMUSCLES NUTRITION Essential Whey Protein",
+        "category": "men's clothing"
     },
     {
-        "name": "Google",
+        "brand": "muscletech",
         "id":9,
-        "image": "https://rukminim1.flixcart.com/image/612/612/ktaeqvk0/speaker/mobile-tablet-speaker/8/q/5/rma2007-realme-original-imag6zdn8gezjky5.jpeg?q=70",
-        "price": 1566,
-        "description": "Google Home Mini 2nd Gen",
-        "category": "speaker"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/l5cslu80/protein-supplement/z/n/n/whey-protein-nitro-tech-100-whey-gold-primary-source-isolate-for-original-imaggfmmzbh2nfyj.jpeg?q=70" ],
+        "price": 5698,
+        "name": "Muscletech Nitro-Tech 100% Whey Gold - Primary Source",
+        "category": "men's clothing"
     },
     {
-        "name": "PTron",
+        "brand": "Optimum Nutition",
         "id":10,
-        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/4/z/b/-original-imagmucmeyd5cdpy.jpeg?q=70",
-        "price": 899,
-        "description": "PTron bAssBot flare TWS",
-        "category": "headphone"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/kw2fki80/protein-supplement/b/s/t/whey-protein-gold-standard-100-whey-protein-powder-vegetarian-original-imag8tpve7zdbxqt.jpeg?q=70" ],
+        "price": 11486,
+        "name": "Optimum Nutrition (ON) Gold Standard 100% Protein Powder",
+        "category": "men's clothing"
     },
     {
-        "name": "Sony",
+        "brand": "Bigmuscle",
         "id":11,
-        "image": "https://rukminim1.flixcart.com/image/612/612/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg?q=70",
-        "price": 9856,
-        "description": "SONY SA-D40 80 watt Home Theatre",
-        "category": "speaker"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/j/1/3/whey-protein-premium-gold-whey-1kg-belgian-chocolate-with-freak-original-imaggz3ynqkgcgkf.jpeg?q=70" ],
+        "price": 1965,
+        "name": "BIGMUSCLES NUTRITION Premium Gold Whey 1Kg ",
+        "category": "men's clothing"
     },
     {
-        "name": "Boat",
+        "brand": "Muscleblaze",
         "id":12,
-        "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/t/f/y/-original-imagmdcgryscaznj.jpeg?q=70",
-        "price": 8556,
-        "description": "Boat Airdopes 192 with BeastMode",
-        "category": "headphone"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/kn22m4w0/protein-supplement/l/m/x/biozyme-performance-whey-protein-2-2-lb-nut7239-02-muscleblaze-original-imagfsy3dw6gyk68.jpeg?q=70" ],
+        "price": 4589,
+        "name": "MUSCLEBLAZE Biozyme Performance, Informed Choice UK",
+        "category": "men's clothing"
     },
     {
-        "name": "Boat",
+        "brand": "Myprotein",
         "id":13,
-        "image": "https://rukminim1.flixcart.com/image/612/612/kjom6q80-0/speaker/mobile-tablet-speaker/r/a/g/blitz-2000-boat-original-imafz78cs8ftzgbq.jpeg?q=70",
-        "price": 5964,
-        "description": "Boat Blitz 2000 Multimedia 100 watt",
-        "category": "speaker"
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/kjuby4w0/protein-supplement/a/e/i/impact-whey-isolate-11939978-myprotein-original-imafzbsgzgvu9vhx.jpeg?q=70" ],
+        "price": 5896,
+        "name": "Myprotein Impact Whey Cream cookies Whey Protein",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "Myprotein",
+        "id":14,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/o/x/d/bcaa-my-protein-bcaa-4-1-1-100-serving-watermelon-flavour-mp-original-imagmh4yfcxz3vjz.jpeg?q=70" ],
+        "price": 3647,
+        "name": "Myprotein My protein BCAA 4:1:1 (100 serving) Watermelon",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "GNC",
+        "id":15,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/m/x/a/whey-protein-amp-gold-series-90200197-gnc-original-imagn8hazwzej85n.jpeg?q=70" ],
+        "price": 7456,
+        "name": "GNC Amp Gold Series Whey Protein",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "GNC",
+        "id":16,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/h/f/o/whey-protein-pro-performance-pro-performance-whey-protein-gnc-original-imagn8kszwdu4vaz.jpeg?q=70" ],
+        "price": 6985,
+        "name": "GNC Pro Performance Whey Protein",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "GNC",
+        "id":17,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/xif0q/protein-supplement/1/n/j/whey-protein-amp-pure-isolate-whey-protein-25g-protein-5-5g-bcaa-original-imaggkwpptr4nn7k.jpeg?q=70" ],
+        "price": 8956,
+        "name": "GNC AMP Pure Isolate - 25g Protein|5.5g BCAA| Whey Protein",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "Labrada",
+        "id":18,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/kr0ynbk0/protein-supplement/v/w/f/labrad-muscle-mass-gainer-chocolate-6lbs-124-labrada-original-imag4wpfazre2zut.jpeg?q=70" ],
+        "price": 3799,
+        "name": "Labrada Muscle Mass Gainer Weight Gainers/Mass Gainers",
+        "category": "men's clothing"
+    },
+    {
+        "brand": "Labrada",
+        "id":19,
+        "avatar":[ "https://rukminim1.flixcart.com/image/612/612/k7w8eq80/protein-supplement/a/t/d/muscle-mass-gainer-11-lb-5-kg-muscle-weigth-gain-11-lbs-labrada-original-imafqyh7hbbtvwhz.jpeg?q=70" ],
+        "price": 4322,
+        "name": "Labrada Muscle Weight Gainers/Mass Gainers",
+        "category": "men's clothing"
     }
-  
-    
  ]
 }
